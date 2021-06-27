@@ -10,16 +10,36 @@ Use the credit card credit dataset from LendingClub, a peer-to-peer lending serv
 
 #### Naive Random Oversampling
 
+![naive_random_oversampling](https://user-images.githubusercontent.com/78666055/123552210-26488680-d743-11eb-9d4a-49c31cde06bf.png)
+
+
+
 #### SMOTE Oversampling
+
+
+![smote_oversampling](https://user-images.githubusercontent.com/78666055/123552219-2cd6fe00-d743-11eb-9412-30aa355e069f.png)
+
 
 #### Undersampling
 
+![clustercentroid_undersampling](https://user-images.githubusercontent.com/78666055/123552222-33657580-d743-11eb-9613-b5b44624020c.png)
+
+
 #### Combination (Over and Under) Sampling
+
+![smoteenn_combination_sampling](https://user-images.githubusercontent.com/78666055/123552230-3e200a80-d743-11eb-8037-5dd1e272a4a8.png)
+
 
 #### Balanced Random Forest Classifier
 
+![balanced_random_forest_classifier](https://user-images.githubusercontent.com/78666055/123552242-4aa46300-d743-11eb-804a-74d05c78e9b3.png)
+
+
 
 #### Easy Ensemble AdaBoost Classifier
+
+![easy_ensemble_adaboost_classifier](https://user-images.githubusercontent.com/78666055/123552248-52640780-d743-11eb-87a5-562613cff492.png)
+
 
 
 # Summary

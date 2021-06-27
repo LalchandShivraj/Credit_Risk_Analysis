@@ -1,5 +1,4 @@
-# Credit_Risk_Analysis
-![credit_risk_header](https://user-images.githubusercontent.com/78666055/123553409-ff8d4e80-d748-11eb-9d13-bfaae2c0736b.png)
+![credit_risk_header](https://user-images.githubusercontent.com/78666055/123553501-76c2e280-d749-11eb-9a15-ada90231a602.png)
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. So, machine learning will have to be employed to solve this challenge.
 Jill requested the use of imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.

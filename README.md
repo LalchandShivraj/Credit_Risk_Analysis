@@ -10,17 +10,17 @@ Use the credit card credit dataset from LendingClub, a peer-to-peer lending serv
 
 ### Naive Random Oversampling
 The performance of this algorithm, low accuracy and low percentage precision on high risk loans is not a fovourable choice.
-* Balanced Accuracy Score: 66% *
-* Precision (High and Low risk respectively): 1% and 100% *
-* Recall (High and Low risk respectively): 74% and 58% *
+* Balanced Accuracy Score: 66% 
+* Precision (High and Low risk respectively): 1% and 100% 
+* Recall (High and Low risk respectively): 74% and 58% 
 
 ![naive_random_oversampling](https://user-images.githubusercontent.com/78666055/123552210-26488680-d743-11eb-9d4a-49c31cde06bf.png)
 
 ### SMOTE Oversampling
 The performance of this algorithm, low accuracy and low percentage precision on high risk loans is not a fovourable choice.
-** Balanced Accuracy Score: 65% **
-** Precision (High and Low risk respectively): 1% and 100% **
-** Recall (High and Low risk respectively): 62% and 68% **
+* Balanced Accuracy Score: 65% 
+* Precision (High and Low risk respectively): 1% and 100% 
+** Recall (High and Low risk respectively): 62% and 68% 
 
 ![smote_oversampling](https://user-images.githubusercontent.com/78666055/123552219-2cd6fe00-d743-11eb-9412-30aa355e069f.png)
 

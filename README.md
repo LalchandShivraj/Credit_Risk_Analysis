@@ -6,3 +6,20 @@ Jill requested the use of imbalanced-learn and scikit-learn libraries to build a
 ### Task at hand:
 Use the credit card credit dataset from LendingClub, a peer-to-peer lending service company. Oversample the data using RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. After also using the combinatorial approach of the SMOTEENN algorithm, compare the two machine learning models: BalancedRandomForestClassifier and EasyEnsembleClassifier to predict credit risk.
 
+# Results
+
+#### Naive Random Oversampling
+
+#### SMOTE Oversampling
+
+#### Undersampling
+
+#### Combination (Over and Under) Sampling
+
+#### Balanced Random Forest Classifier
+
+
+#### Easy Ensemble AdaBoost Classifier
+
+
+# Summary

@@ -53,3 +53,4 @@ The performance of this algorithm, high accuracy and better percentage precision
 ![easy_ensemble_adaboost_classifier](https://user-images.githubusercontent.com/78666055/123552248-52640780-d743-11eb-87a5-562613cff492.png)
 
 # Summary
+The first four algorithms (Naive Random Sampling, SMOTE Oversampling, ClusterCentroid Undersampling and SMOTEENN Conbination Sampling) did not produce favourable results. The Balanced Random Forest Classifier did show improvement over the four mentioned, however, the Easy Ensemble AdaBoost Classifier would be the best choice, given it's accuracy, precision and recall values overall.
